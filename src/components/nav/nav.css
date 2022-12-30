@@ -1,5 +1,5 @@
 nav{
-    background: rgba(0,0,0,0.3);
+    background: var(--color-nav);
     width: max-content;
     display: block;
     padding: 0.7rem 1.7rem;
@@ -19,7 +19,7 @@ nav a{
     padding: 0.9rem;
     border-radius: 50%;
     display: flex;
-    color: var(--color-light);
+    color: var(--color-logo);
     font-size: 1.1rem;
 }
 nav a:hover{
