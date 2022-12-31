@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.e39dd633.css",
+    "main.js": "/Portfolio/static/js/main.ce798138.js",
+    "static/media/snakeGame-01.png": "/Portfolio/static/media/snakeGame-01.23e3b887197c3c542f31.png",
+    "static/media/music-01.png": "/Portfolio/static/media/music-01.c2a88339e89957883a84.png",
+    "static/media/Himanshi_resume.pdf": "/Portfolio/static/media/Himanshi_resume.6b3e916dddd294f53297.pdf",
+    "static/media/ShakesJeer.jpg": "/Portfolio/static/media/ShakesJeer.93274dac4f12fd20028f.jpg",
+    "static/media/img.jpg": "/Portfolio/static/media/img.d25a2aa2b503fcb3726f.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.e39dd633.css.map": "/Portfolio/static/css/main.e39dd633.css.map",
+    "main.ce798138.js.map": "/Portfolio/static/js/main.ce798138.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e39dd633.css",
+    "static/js/main.ce798138.js"
+  ]
+}
